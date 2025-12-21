@@ -6,33 +6,33 @@ The dashboard helps identify high-performing months, profitable categories, and 
 
 🎯 Objectives
 
-1.Analyze monthly sales, profit, and quantity trends
-2.Compare profit contribution by product category
-3.Identify top and low-performing sub-categories
-4.Examine sales and profit distribution by state
-5.Understand the relationship between sales volume and profitability
+1. Analyze monthly sales, profit, and quantity trends
+2. Compare profit contribution by product category
+3. Identify top and low-performing sub-categories
+4. Examine sales and profit distribution by state
+5. Understand the relationship between sales volume and profitability
 
 🛠 Tools & Technologies
 
-1.Power BI Desktop
-2.DAX (basic measures and aggregations)
-3.Excel dataset
+1. Power BI Desktop
+2. DAX (basic measures and aggregations)
+3. Excel dataset
 
 📊 Key Insights & Visuals
 
-1.Monthly Analysis
+1. Monthly Analysis
 Line and column charts showing sales, profit, and quantity by month
 Peak performance observed in September, November, and December
 
-2.Category Performance
+2. Category Performance
 Technology contributes the highest share of profit
 Furniture shows lower profit margins compared to sales
 
-3.Sub-Category Analysis
+3. Sub-Category Analysis
 High sales volume from items like Binders, Paper, and Phones
 Some sub-categories generate high quantity but lower profit
 
-4.Geographical Insights
+4. Geographical Insights
 State-wise sales and profit distribution using map visuals
 Profit margin comparison across regions
 
